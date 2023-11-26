@@ -13,7 +13,30 @@
 				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/F3/MFGNT5OAL9TQRMZ589ZH0V.uasset",
 				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/BT_Enemy_base.uasset",
 				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/AIC_Enemy_base.uasset",
-				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/BB_Enemy_base.uasset"
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/BB_Enemy_base.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Animations/SwordAndShieldSlash_UE.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Animations/Sword_Slash.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/Tasks/BTT_DefaultAttack.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/Tasks/BTT_focus.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/Tasks/BTT_ClearFocus.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/BP_Sword.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/source/Sword/Sword_Low_Done.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/source/Sword/sword_mat.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/Tasks/BTT_Sword.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Enemy/AI/Decorators/BTD_WeildSword.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/textures/Sword_occlusion.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/textures/Sword_Base_Color.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/textures/Sword_Metallic.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/textures/Sword_Normal_DirectX.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/textures/Sword_Roughness.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/source/Sword/Sword_occlusion.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/source/Sword/Sword_Base_Color.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/source/Sword/Sword_Metallic.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/source/Sword/Sword_Normal_DirectX.uasset",
+				"/Users/supunhasanka/Desktop/Project/final-year-project/castle_ai/Content/Weapons/sword/source/Sword/Sword_Roughness.uasset"
 			]
 		}
 	]
