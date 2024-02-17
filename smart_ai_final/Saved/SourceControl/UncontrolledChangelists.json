@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Projects/final-year-project/smart_ai_final/Content/Player/BP_Player.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/BP_Enemy.uasset"
+			]
+		}
+	]
+}
