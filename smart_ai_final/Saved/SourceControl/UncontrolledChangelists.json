@@ -6,7 +6,28 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"G:/Projects/final-year-project/smart_ai_final/Content/Player/BP_Player.uasset",
-				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/BP_Enemy.uasset"
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/BP_Enemy.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/SwordAndShieldSlash_UE.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Assets/Sword1.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Assets/Procedural_Routh_Blade_Metal.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Assets/Leather.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/SwordAndShieldSlash_UE_Montage.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/BB_EnemyBase.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/BT_EnemyBase.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WY/G03MDTAAYPTHSYSRLVX0YQ.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/SJ/GV0XDJFXVX7J270W5FJVPI.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/A2/LH2JQDC0SAY0Q89UDMCT1G.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/AIC_EnemyBase.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Tasks/BTT_FocusTarget.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Tasks/BTT_ClearFocus.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Tasks/BTT_DefaultAttack.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Weapons/BP_Sword.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Tasks/BTT_WiredSword.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/BTD_isWiredSword.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
 			]
 		}
 	]
