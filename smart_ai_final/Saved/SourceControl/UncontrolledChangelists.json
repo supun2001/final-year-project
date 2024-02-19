@@ -27,7 +27,26 @@
 				"G:/Projects/final-year-project/smart_ai_final/Content/Weapons/BP_Sword.uasset",
 				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Tasks/BTT_WiredSword.uasset",
 				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/BTD_isWiredSword.uasset",
-				"G:/Projects/final-year-project/smart_ai_final/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
+				"G:/Projects/final-year-project/smart_ai_final/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/BP_PatrolRouter.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/LA/LV0ZDUO2AGHHPMANU8Y1PT.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/BPI_EnemyAI.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Tasks/BTT_MoveOnPatroleRoute.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Enums/E_MovementSpeed.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Tasks/BTT_SetMovementSpeed.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Decorators/BTD_HasPatrolRoute.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Enums/E_State.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Enums/E_AIState.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/WithdrawingSword_UE.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/SheathingSword_UE.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/Montage_GetSword.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/WithdrawingSword_UE_Montage.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Enemy/AI/Tasks/BTT_Sheethsword.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/Montage_GetDownSowrd.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/Montages/Montage_GetDownSowrd.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/Montages/SwordAndShieldSlash_UE_Montage.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/Montages/WithdrawingSword_UE_Montage.uasset",
+				"G:/Projects/final-year-project/smart_ai_final/Content/Animations/Montages/Montage_GetSword.uasset"
 			]
 		}
 	]
