@@ -6090,3 +6090,66 @@ Please see Output Log for details.
 [2024.02.19-08.23.36:480][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 8.20 sec)
 [2024.02.19-08.23.36:487][ 12]AssetCheck: New page: Asset Save: BP_Enemy
 [2024.02.19-08.23.36:487][ 12]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_Enemy.BP_Enemy
+[2024.02.19-08.24.58:962][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.19-08.24.59:002][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Projects/final-year-project/smart_ai_final/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.02.19-08.24.59:036][775]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2024.02.19-08.24.59:037][775]LogSavePackage: Moving '../../../../../Projects/final-year-project/smart_ai_final/Saved/BP_Enemy9BDC921348994B60DD51BEAD95275A29.tmp' to '../../../../../Projects/final-year-project/smart_ai_final/Content/Enemy/BP_Enemy.uasset'
+[2024.02.19-08.24.59:046][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 8.29 sec)
+[2024.02.19-08.24.59:053][775]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.02.19-08.24.59:053][775]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_Enemy.BP_Enemy
+[2024.02.19-08.25.01:623][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.19-08.25.01:676][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.19-08.25.08:409][ 72]LogSlate: Window 'Save Content' being destroyed
+[2024.02.19-08.25.08:421][ 73]LogAutomationController: Ignoring very large delta of 6.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.19-08.25.10:270][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.19-08.25.10:304][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BT_EnemyBase" FILE="../../../../../Projects/final-year-project/smart_ai_final/Content/Enemy/AI/BT_EnemyBase.uasset" SILENT=true
+[2024.02.19-08.25.10:310][293]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BT_EnemyBase
+[2024.02.19-08.25.10:311][293]LogSavePackage: Moving '../../../../../Projects/final-year-project/smart_ai_final/Saved/BT_EnemyBase226526904ECC4A5DE00354BB7CB854ED.tmp' to '../../../../../Projects/final-year-project/smart_ai_final/Content/Enemy/AI/BT_EnemyBase.uasset'
+[2024.02.19-08.25.10:318][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 8.34 sec)
+[2024.02.19-08.25.10:329][293]AssetCheck: New page: Asset Save: BT_EnemyBase
+[2024.02.19-08.25.10:329][293]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
+[2024.02.19-08.25.11:930][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.19-08.25.11:934][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.19-08.25.11:980][477]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WY/G03MDTAAYPTHSYSRLVX0YQ
+[2024.02.19-08.25.11:980][477]LogSavePackage: Moving '../../../../../Projects/final-year-project/smart_ai_final/Saved/G03MDTAAYPTHSYSRLVX0YQ12052B3E4D5880869401CFA312ABBBBC.tmp' to '../../../../../Projects/final-year-project/smart_ai_final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WY/G03MDTAAYPTHSYSRLVX0YQ.uasset'
+[2024.02.19-08.25.11:988][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 8.39 sec)
+[2024.02.19-08.25.11:996][477]AssetCheck: New page: Asset Save: BP_Enemy_C_UAID_4CCC6A4C920975DA01_1615542959
+[2024.02.19-08.25.11:996][477]LogContentValidation: Display: Validating /Game/Enemy/BP_Enemy.BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_4CCC6A4C920975DA01_1615542959
+[2024.02.19-08.25.13:516][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.19-08.25.13:552][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../Projects/final-year-project/smart_ai_final/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2024.02.19-08.25.13:576][658]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2024.02.19-08.25.13:576][658]LogSavePackage: Moving '../../../../../Projects/final-year-project/smart_ai_final/Saved/BP_Enemy23945ECD402D8EF10E2291B2023F61E5.tmp' to '../../../../../Projects/final-year-project/smart_ai_final/Content/Enemy/BP_Enemy.uasset'
+[2024.02.19-08.25.13:584][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 8.46 sec)
+[2024.02.19-08.25.13:591][658]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.02.19-08.25.13:591][658]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_Enemy.BP_Enemy
+[2024.02.19-08.25.14:432][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.19-08.25.14:465][755]LogStall: Shutdown...
+[2024.02.19-08.25.14:701][755]LogStall: Shutdown complete.
+[2024.02.19-08.25.15:627][755]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.19-08.25.15:627][755]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-08.25.15:627][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-08.25.16:891][755]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-08.25.16:892][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-08.25.16:958][755]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-08.25.16:958][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-08.25.17:024][755]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-08.25.17:024][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-08.25.17:283][755]LogSlate: Window 'smart_ai_final - Unreal Editor' being destroyed
+[2024.02.19-08.25.19:954][756]LogAutomationController: Ignoring very large delta of 5.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.19-08.25.19:968][756]Cmd: QUIT_EDITOR
+[2024.02.19-08.25.19:980][756]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.02.19-08.25.20:148][756]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.02.19-08.25.20:185][756]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.02.19-08.25.20:193][756]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.02.19-08.25.20:406][756]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-08.25.20:406][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-08.25.20:512][756]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.19-08.25.21:157][756]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.02.19-08.25.21:529][756]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.02.19-08.25.24:273][756]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.02.19-08.25.24:273][756]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.02.19-08.25.24:273][756]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.02.19-08.25.24:280][756]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.02.19-08.25.24:319][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.19-08.25.24:346][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.19-08.25.24:722][756]LogAudio: Display: Audio Device Manager Shutdown
